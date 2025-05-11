@@ -1,0 +1,11 @@
+h1,h2,h3,h4,h5,h6{
+    text-align: center;
+    color:darkgrey;
+}
+body{
+    background-image: url("https://images.saymedia-content.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MjAxNjEwOTc3NjIyMzcwMTA0/black-color-some-history-and-trends.jpg");
+}
+img{
+    display: block;
+    margin:0 auto;
+}
